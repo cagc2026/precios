@@ -1,7 +1,7 @@
 {
- "generado": "2026-10-24T08:25:00-06:00",
+ "generado": "2026-10-25T08:20:00-06:00",
  "fuente": "/workspace/shared/precios/observaciones.csv",
- "hoy": "2026-10-24",
+ "hoy": "2026-10-25",
  "fechas": [
   "2026-10-03",
   "2026-10-04",
@@ -23,14 +23,15 @@
   "2026-10-21",
   "2026-10-22",
   "2026-10-23",
-  "2026-10-24"
+  "2026-10-24",
+  "2026-10-25"
  ],
  "calidad": {
-  "agotado": 190,
-  "sin_unit": 2564,
-  "url_busqueda": 667,
-  "disp_desconocida": 254,
-  "tienda_dia_multi": 540
+  "agotado": 203,
+  "sin_unit": 2701,
+  "url_busqueda": 699,
+  "disp_desconocida": 280,
+  "tienda_dia_multi": 577
  },
  "productos": {
   "mounjaro_7_5": {
@@ -38,6 +39,7 @@
    "unidad": "/dosis",
    "tiendas": {
     "Farmacias del Ahorro": [
+     2107.5,
      2107.5,
      2107.5,
      2107.5,
@@ -81,9 +83,11 @@
      1969.0,
      1969.0,
      1969.0,
+     1969.0,
      1969.0
     ],
     "Benavides": [
+     1955.25,
      1955.25,
      1955.25,
      1955.25,
@@ -127,6 +131,7 @@
      1563.75,
      1563.75,
      1563.75,
+     1563.75,
      1563.75
     ],
     "Walmart MX": [
@@ -150,11 +155,13 @@
      null,
      null,
      null,
-     null
+     null,
+     1782.75
     ],
     "Soriana": [
      2424.75,
      2424.75,
+     1961.25,
      1961.25,
      1961.25,
      1961.25,
@@ -202,6 +209,7 @@
      5.69,
      5.69,
      5.69,
+     5.69,
      5.69
     ],
     "Farmacias del Ahorro": [
@@ -214,6 +222,7 @@
      6.49,
      6.49,
      6.49,
+     6.52,
      6.52,
      6.52,
      6.52,
@@ -248,7 +257,8 @@
      null,
      null,
      null,
-     null
+     null,
+     7.8
     ],
     "Benavides": [
      6.49,
@@ -257,6 +267,7 @@
      6.49,
      6.49,
      null,
+     6.49,
      6.49,
      6.49,
      6.49,
@@ -294,7 +305,8 @@
      null,
      null,
      null,
-     null
+     null,
+     6.3
     ],
     "Walmart MX": [
      null,
@@ -317,7 +329,8 @@
      null,
      null,
      null,
-     null
+     null,
+     8.47
     ],
     "Soriana": [
      null,
@@ -328,6 +341,7 @@
      null,
      7.72,
      7.72,
+     null,
      null,
      null,
      null,
@@ -369,6 +383,7 @@
      19.97,
      19.97,
      19.92,
+     19.92,
      19.92
     ],
     "iHerb": [
@@ -392,7 +407,8 @@
      null,
      15.89,
      15.89,
-     null
+     null,
+     16.09
     ],
     "San Pablo": [
      23.27,
@@ -413,6 +429,7 @@
      20.93,
      20.93,
      20.93,
+     23.27,
      23.27,
      23.27,
      23.27
@@ -438,6 +455,7 @@
      36.4,
      null,
      null,
+     36.4,
      36.4
     ]
    }
@@ -467,6 +485,7 @@
      50.76,
      50.76,
      50.76,
+     55.5,
      55.5
     ],
     "Farmacias del Ahorro": [
@@ -490,6 +509,7 @@
      66.7,
      66.7,
      66.7,
+     66.7,
      66.7
     ],
     "San Pablo": [
@@ -502,6 +522,7 @@
      65.6,
      65.6,
      null,
+     65.6,
      65.6,
      65.6,
      65.6,
@@ -536,9 +557,11 @@
      67.1,
      67.1,
      67.1,
+     67.1,
      67.1
     ],
     "Farmacias Guadalajara": [
+     64.7,
      64.7,
      64.7,
      64.7,
@@ -582,6 +605,7 @@
      60.0,
      60.0,
      60.0,
+     60.0,
      60.0
     ],
     "Soriana": [
@@ -605,6 +629,7 @@
      null,
      null,
      60.9,
+     null,
      null
     ]
    }
@@ -634,6 +659,7 @@
      52.45,
      52.45,
      52.45,
+     55.1,
      55.1
     ],
     "Farmacias del Ahorro": [
@@ -642,6 +668,7 @@
      66.3,
      66.3,
      66.3,
+     66.6,
      66.6,
      66.6,
      66.6,
@@ -680,7 +707,8 @@
      59.2,
      59.2,
      59.2,
-     59.2
+     59.2,
+     74.0
     ],
     "Benavides": [
      66.9,
@@ -703,9 +731,11 @@
      66.2,
      66.2,
      66.2,
+     66.2,
      66.2
     ],
     "Farmacias Guadalajara": [
+     74.45,
      74.45,
      74.45,
      74.45,
@@ -749,6 +779,7 @@
      85.0,
      85.0,
      85.0,
+     85.0,
      85.0
     ],
     "Soriana": [
@@ -762,6 +793,7 @@
      null,
      null,
      67.5,
+     null,
      null,
      null,
      null,
@@ -801,6 +833,7 @@
      1.71,
      1.34,
      1.07,
+     1.71,
      1.71
     ],
     "Farmacias del Ahorro": [
@@ -821,6 +854,7 @@
      1.06,
      1.06,
      1.06,
+     1.07,
      1.07,
      1.07,
      1.07,
@@ -847,6 +881,7 @@
      0.63,
      0.63,
      0.63,
+     0.63,
      0.63
     ],
     "Benavides": [
@@ -856,6 +891,7 @@
      null,
      null,
      1.15,
+     null,
      null,
      null,
      null,
@@ -893,6 +929,7 @@
      0.85,
      0.85,
      0.85,
+     0.85,
      0.85
     ],
     "Walmart MX": [
@@ -916,9 +953,11 @@
      0.88,
      0.88,
      0.88,
+     0.88,
      0.88
     ],
     "Soriana": [
+     null,
      null,
      null,
      null,
@@ -962,6 +1001,7 @@
      0.7,
      0.7,
      0.63,
+     0.63,
      0.63
     ]
    }
@@ -991,7 +1031,8 @@
      6.38,
      6.1,
      6.1,
-     6.1
+     6.1,
+     6.49
     ],
     "iHerb": [
      4.55,
@@ -1014,9 +1055,11 @@
      5.13,
      null,
      6.35,
-     5.19
+     5.19,
+     4.65
     ],
     "Farmacias del Ahorro": [
+     null,
      null,
      null,
      null,
@@ -1060,9 +1103,11 @@
      null,
      null,
      null,
+     null,
      null
     ],
     "Benavides": [
+     null,
      null,
      null,
      null,
@@ -1106,9 +1151,11 @@
      null,
      null,
      null,
+     null,
      null
     ],
     "Walmart MX": [
+     null,
      null,
      null,
      null,
@@ -1152,9 +1199,11 @@
      null,
      null,
      null,
+     null,
      null
     ],
     "Chedraui": [
+     null,
      null,
      null,
      null,
@@ -1204,6 +1253,7 @@
      1.32,
      0.62,
      1.32,
+     1.32,
      1.32
     ],
     "Farmacias del Ahorro": [
@@ -1216,6 +1266,7 @@
      1.83,
      1.83,
      1.83,
+     1.85,
      1.85,
      1.85,
      1.85,
@@ -1250,9 +1301,11 @@
      3.47,
      2.48,
      3.47,
+     3.47,
      3.47
     ],
     "Benavides": [
+     1.95,
      1.95,
      1.95,
      1.95,
@@ -1296,6 +1349,7 @@
      1.84,
      1.84,
      1.84,
+     2.04,
      2.04
     ],
     "Walmart MX": [
@@ -1311,6 +1365,7 @@
      null,
      1.98,
      null,
+     1.98,
      1.98,
      1.98,
      1.98,
@@ -1342,7 +1397,8 @@
      3.83,
      3.83,
      3.83,
-     11.65
+     11.65,
+     3.83
     ],
     "Chedraui": [
      1.98,
@@ -1364,6 +1420,7 @@
      1.98,
      1.98,
      1.98,
+     1.78,
      1.78,
      1.78
     ]
@@ -1394,6 +1451,7 @@
      null,
      58.57,
      58.57,
+     58.57,
      58.57
     ],
     "San Pablo": [
@@ -1415,6 +1473,7 @@
      null,
      null,
      null,
+     56.5,
      56.5,
      56.5,
      56.5
@@ -1440,6 +1499,7 @@
      null,
      64.64,
      64.64,
+     64.64,
      64.64
     ],
     "Farmacias Guadalajara": [
@@ -1463,9 +1523,11 @@
      null,
      54.82,
      null,
+     54.82,
      54.82
     ],
     "Soriana": [
+     null,
      null,
      null,
      null,
@@ -1509,7 +1571,182 @@
      null,
      58.21,
      52.39,
+     52.39,
      52.39
+    ]
+   }
+  },
+  "contumax_17g": {
+   "nombre": "ContuMAX 17 g",
+   "unidad": "/sobre",
+   "tiendas": {
+    "Farmacias del Ahorro": [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     15.29,
+     15.29
+    ],
+    "San Pablo": [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     15.29
+    ],
+    "Benavides": [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     15.29,
+     15.29
+    ],
+    "Farmacias Guadalajara": [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     14.57
+    ],
+    "Walmart MX": [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    "Soriana": [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    "Chedraui": [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     25.2,
+     25.2
     ]
    }
   },
@@ -1538,9 +1775,11 @@
      5.1,
      5.1,
      5.1,
-     5.07
+     5.07,
+     5.82
     ],
     "Walmart MX": [
+     null,
      null,
      null,
      null,
@@ -1590,6 +1829,7 @@
      null,
      19.33,
      19.33,
+     19.63,
      19.63
     ],
     "iHerb": [
@@ -1613,7 +1853,8 @@
      null,
      null,
      null,
-     null
+     null,
+     21.18
     ]
    }
   }
